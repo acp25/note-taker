@@ -1,0 +1,19 @@
+{
+    "notes": [
+        {
+            "title": "Call Home",
+            "text": "Please call home before 6:00!",
+            "id": "1612123580004"
+        },
+        {
+            "title": "Finish Homework",
+            "text": "Take time to finish your homework!",
+            "id": "1612124001262"
+        },
+        {
+            "title": "Go to Store",
+            "text": "Pick up some milk on the way home from work",
+            "id": "1612124022962"
+        }
+    ]
+}
