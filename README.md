@@ -10,6 +10,8 @@ Clone the repository from GitHub and use your perferred code editor.
 
 # Usage 
 
+![image](https://user-images.githubusercontent.com/60405505/124325162-34871000-db52-11eb-8b65-4467499942f3.png)
+
 
 
 
